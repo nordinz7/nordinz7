@@ -88,7 +88,21 @@
 <img src="https://github-readme-stats.vercel.app/api?username=nordinz7&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nordinz7&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" height="165"/>
 
-<img src="https://github-readme-streak-stats.vercel.app/?user=nordinz7&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
+---
+
+## 💻 **Hardware & Setup**
+
+<div align="center">
+
+### Development Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Laptop:** MacBook Air M2 (24GB RAM) | **OS:** macOS/Linux | **Shell:** Bash/Zsh
+
+</div>
 
 ---
 
