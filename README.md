@@ -103,8 +103,18 @@ _Comprehensive microservices-based shipping and logistics management system_
 
 ## 📊 GitHub Stats
 
+### Personal Account (nordinz7)
+
 ![](https://github-readme-stats.vercel.app/api?username=nordinz7&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
 ![](https://github-readme-streak-stats.vercel.app/?user=nordinz7&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nordinz7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### Company Account (nordinswift)
+
+![](https://github-readme-stats.vercel.app/api?username=nordinswift&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.vercel.app/?user=nordinswift&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nordinswift&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
