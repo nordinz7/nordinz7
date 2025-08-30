@@ -1,5 +1,15 @@
 # Hi there 👋
 
+## **NORDIN BIN ZAHARI**
+
+### Full Stack Developer
+
+📧 **Email:** vipnordin@gmail.com
+📞 **Phone:** +60 10-2171345
+📍 **Location:** Klang, Selangor, Malaysia (willing to relocate)
+💼 **LinkedIn:** [linkedin.com/in/nordin-zahari-02b656b6](https://www.linkedin.com/in/nordin-zahari-02b656b6/)
+🐱 **GitHub:** [github.com/nordinz7](https://github.com/nordinz7)
+
 ## 💫 About Me
 
 ### **Languages**
@@ -41,6 +51,11 @@
 ![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 ![Lodash](https://img.shields.io/badge/Lodash-3492FF?style=for-the-badge&logo=lodash&logoColor=white)
 ![Sentry](https://img.shields.io/badge/sentry-362d59?style=for-the-badge&logo=sentry&logoColor=white)
+![Supertokens](https://img.shields.io/badge/SuperTokens-FF6900?style=for-the-badge&logo=supertokens&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-E10098?style=for-the-badge&logo=bull&logoColor=white)
 
 ## 🛠️ Professional Experience
 
@@ -110,11 +125,3 @@ _Comprehensive microservices-based shipping and logistics management system_
 ![](https://github-readme-streak-stats.vercel.app/?user=nordinz7&theme=dark&hide_border=false)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nordinz7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### Company Account (nordinswift)
-
-![](https://github-readme-stats.vercel.app/api?username=nordinswift&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.vercel.app/?user=nordinswift&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nordinswift&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
