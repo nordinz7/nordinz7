@@ -27,6 +27,7 @@
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat-square&logo=api&logoColor=white)
 ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
 
@@ -40,7 +41,11 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-FF6B6B?style=flat-square&logo=bull&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 </div>
@@ -57,9 +62,9 @@
 - ⚡ **Event-driven architecture** using MongoDB & Redis job queues
 - 🔐 **Auth0 SSO integration** with role-based access control
 - 📊 **Real-time tracking** & notifications for enterprise clients
-- 🛠️ **Docker deployment** with AWS cloud integration
+- 🛠️ **Kubernetes deployment** with GCP cloud integration
 
-**Tech Stack:** Node.js • TypeScript • GraphQL • PostgreSQL • MongoDB • Redis • Docker • AWS
+**Tech Stack:** Node.js • TypeScript • GraphQL • PostgreSQL • MongoDB • Redis • Kubernetes • GCP
 
 ---
 
